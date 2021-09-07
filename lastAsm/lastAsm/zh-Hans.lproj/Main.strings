@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "2ji-oW-gxx"; */
+"2ji-oW-gxx.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Prev"; ObjectID = "7Yc-Lj-URH"; */
+"7Yc-Lj-URH.normalTitle" = "Prev";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AGE-5e-O6W"; */
+"AGE-5e-O6W.text" = "Label";
+
+/* Class = "UILabel"; text = "Play"; ObjectID = "MaW-E8-xLc"; */
+"MaW-E8-xLc.text" = "播放";
+
+/* Class = "UILabel"; text = "Music Player"; ObjectID = "R9p-qB-V1E"; */
+"R9p-qB-V1E.text" = "音乐播放器";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Vqd-0N-af1"; */
+"Vqd-0N-af1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Prev"; ObjectID = "cfb-jD-TLk"; */
+"cfb-jD-TLk.text" = "上个";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "i3A-lp-Hdl"; */
+"i3A-lp-Hdl.text" = "下个";
